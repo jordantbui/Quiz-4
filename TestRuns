@@ -37,3 +37,13 @@ Sorted Peaks and Valleys Array:
 
 Time Elapsed to Sort: 4687ns
 -----------------------------------
+
+
+CS 3310 Quiz 4 Build Order
+Jordan Bui
+-----------------------------------
+
+Build Order:
+e f a b d c 
+
+Time elapsed: 985278ns
