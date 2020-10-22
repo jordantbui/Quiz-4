@@ -21,7 +21,9 @@ Peaks and Valleys
  in nanoseconds
  
   Time Complexity:
+  
    T(n) = O(n)
+   
    Since the sort algorithm contains one for loop that searches all elements in the 
    array, the time complexity is O(n).
    As the size of the array increases, the program will have more array elements to sort 
@@ -29,4 +31,5 @@ Peaks and Valleys
 
  
 Build Order
+
  This
