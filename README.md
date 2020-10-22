@@ -9,6 +9,7 @@ Quiz 4
 Implementations for Peaks and Valleys and Build Order
 
 Peaks and Valleys
+
  This program sorts an array by peaks and valleys by checking every two array
  indexes. 
  - Starts at array index 1, second element, and checks in the previous
