@@ -1,11 +1,17 @@
 # Quiz-4
 Quiz 4 
+
 CS 3310
+
 Jordan Bui
+
 011821368
+
 10/21/2020
 
+
 Quiz 4
+
 Implementations for Peaks and Valleys and Build Order
 
 Peaks and Valleys
