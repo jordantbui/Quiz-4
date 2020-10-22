@@ -19,12 +19,12 @@ Peaks and Valleys
  - Prints initial array and size then sorts and prints sorted array and sorting time
  in nanoseconds
  
- Time Complexity:
- T(n) = O(n)
- Since the sort algorithm contains one for loop that searches all elements in the 
- array, the time complexity is O(n).
- As the size of the array increases, the program will have more array elements to sort 
- through, increasing runtime.
+  Time Complexity:
+   T(n) = O(n)
+   Since the sort algorithm contains one for loop that searches all elements in the 
+   array, the time complexity is O(n).
+   As the size of the array increases, the program will have more array elements to sort 
+   through, increasing runtime.
 
  
 Build Order
