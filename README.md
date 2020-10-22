@@ -1,7 +1,5 @@
 # Quiz-4
-Quiz 4 
-
-CS 3310
+CS 3310 Quiz 4 
 
 Jordan Bui
 
