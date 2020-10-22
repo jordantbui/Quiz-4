@@ -12,6 +12,7 @@ Quiz 4
 
 Implementations for Peaks and Valleys and Build Order
 
+
 Peaks and Valleys
 
  This program sorts an array by peaks and valleys by checking every two array
@@ -33,6 +34,7 @@ Peaks and Valleys
    As the size of the array increases, the program will have more array elements to sort 
    through, increasing runtime.
 
+ 
  
 Build Order
 
