@@ -38,4 +38,16 @@ Peaks and Valleys
  
 Build Order
 
- This
+This program creates an order based on the dependencies.
+Places the projects in a hash map. Uses a queue to traverseand check for dependencies
+
+
+Time Complexity:
+
+T(n) = O(V + E)
+
+v = number of vertices
+
+e = number of edges.
+
+Each vertex is popped from the queue and its adjacent edges are iterated over.
