@@ -8,11 +8,13 @@ CPP Fall 2020
 CS 3310 Design and Analysis of Algorithms
 
 Quiz 4 Code Implementation
+-
 
 Implementations for Peaks and Valleys and Build Order
 
 
 Peaks and Valleys
+-
 
  This program sorts an array by peaks and valleys by checking every two array
  indexes. 
@@ -34,9 +36,10 @@ Peaks and Valleys
    through, increasing runtime.
 
 Build Order
+-
 
 This program creates an order based on the dependencies.
-Places the projects in a hash map. Uses a queue to traverseand check for dependencies
+- Places the projects in a hash map. Uses a queue to traverseand check for dependencies
 
 Time Complexity:
 
