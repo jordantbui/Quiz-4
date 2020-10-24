@@ -1,14 +1,13 @@
-# Quiz-4
-CS 3310 Quiz 4 
-
-Jordan Bui
-
-011821368
-
+# Quiz 4
 10/21/2020
 
+Jordan Bui (BroncoID: 011821368)
 
-Quiz 4
+CPP Fall 2020
+
+CS 3310 Design and Analysis of Algorithms
+
+Quiz 4 Code Implementation
 
 Implementations for Peaks and Valleys and Build Order
 
@@ -34,8 +33,6 @@ Peaks and Valleys
    As the size of the array increases, the program will have more array elements to sort 
    through, increasing runtime.
 
- 
- 
 Build Order
 
 This program creates an order based on the dependencies.
